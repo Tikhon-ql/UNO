@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UNOConsoleClient/1.0.0": {
+        "dependencies": {
+          "UNO": "1.0.0"
+        },
+        "runtime": {
+          "UNOConsoleClient.dll": {}
+        }
+      },
+      "UNO/1.0.0": {
+        "runtime": {
+          "UNO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UNOConsoleClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UNO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

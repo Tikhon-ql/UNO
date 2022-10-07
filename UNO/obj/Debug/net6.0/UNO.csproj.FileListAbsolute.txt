@@ -1,0 +1,12 @@
+D:\Tikhon\Proga\Doma\UNO\UNO\bin\Debug\net6.0\UNO.deps.json
+D:\Tikhon\Proga\Doma\UNO\UNO\bin\Debug\net6.0\UNO.dll
+D:\Tikhon\Proga\Doma\UNO\UNO\bin\Debug\net6.0\UNO.pdb
+D:\Tikhon\Proga\Doma\UNO\UNO\obj\Debug\net6.0\UNO.csproj.AssemblyReference.cache
+D:\Tikhon\Proga\Doma\UNO\UNO\obj\Debug\net6.0\UNO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tikhon\Proga\Doma\UNO\UNO\obj\Debug\net6.0\UNO.AssemblyInfoInputs.cache
+D:\Tikhon\Proga\Doma\UNO\UNO\obj\Debug\net6.0\UNO.AssemblyInfo.cs
+D:\Tikhon\Proga\Doma\UNO\UNO\obj\Debug\net6.0\UNO.csproj.CoreCompileInputs.cache
+D:\Tikhon\Proga\Doma\UNO\UNO\obj\Debug\net6.0\UNO.dll
+D:\Tikhon\Proga\Doma\UNO\UNO\obj\Debug\net6.0\refint\UNO.dll
+D:\Tikhon\Proga\Doma\UNO\UNO\obj\Debug\net6.0\UNO.pdb
+D:\Tikhon\Proga\Doma\UNO\UNO\obj\Debug\net6.0\ref\UNO.dll

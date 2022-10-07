@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UNO", "UNO\UNO.csproj", "{9BAB6EC7-8EEC-445E-AF54-2BB02A7D10EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UNOServer", "UNOServer\UNOServer.csproj", "{3E3BD992-6FA5-4B63-95DC-A66D69AAE9C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNOConsoleClient", "UNOConsoleClient\UNOConsoleClient.csproj", "{3121F7DE-3AA3-46ED-8C24-14E75A786DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAB6EC7-8EEC-445E-AF54-2BB02A7D10EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAB6EC7-8EEC-445E-AF54-2BB02A7D10EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAB6EC7-8EEC-445E-AF54-2BB02A7D10EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAB6EC7-8EEC-445E-AF54-2BB02A7D10EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3BD992-6FA5-4B63-95DC-A66D69AAE9C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3BD992-6FA5-4B63-95DC-A66D69AAE9C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3BD992-6FA5-4B63-95DC-A66D69AAE9C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3BD992-6FA5-4B63-95DC-A66D69AAE9C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3121F7DE-3AA3-46ED-8C24-14E75A786DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3121F7DE-3AA3-46ED-8C24-14E75A786DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3121F7DE-3AA3-46ED-8C24-14E75A786DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3121F7DE-3AA3-46ED-8C24-14E75A786DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6141AF9-120C-489D-988E-89D9B4582511}
+	EndGlobalSection
+EndGlobal
